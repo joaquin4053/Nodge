@@ -1,0 +1,46 @@
+NODGE – Dynamic Island für den Mac
+===================================
+
+Voraussetzung: macOS 13 (Ventura) oder neuer. Funktioniert mit und ohne Notch.
+
+
+INSTALLIEREN
+------------
+1. Nodge.app in den Ordner "Programme" ziehen.
+2. Nodge.app doppelklicken.
+3. Erscheint "Nodge kann nicht geöffnet werden / nicht überprüft werden":
+   Das ist normal, die App ist nicht über den App Store verteilt.
+   → Systemeinstellungen öffnen
+   → Datenschutz & Sicherheit
+   → ganz nach unten scrollen
+   → bei "Nodge" auf "Trotzdem öffnen" klicken und bestätigen.
+   Das ist nur einmal nötig.
+4. Oben in der Menüleiste erscheint ein Ablage-Symbol. Nodge läuft.
+
+Tipp: Im ⋯-Menü der Island "Beim Login starten" aktivieren,
+dann ist Nodge nach jedem Neustart automatisch da.
+
+
+BEDIENUNG
+---------
+Island öffnen            Maus auf die Notch (oben in der Mitte)
+Etwas ablegen            Datei, Bild oder Text auf die Notch ziehen
+Auswahl ablegen          ⌘⇧Leertaste (im Finder: markierte Dateien,
+                         sonst: markierter Text)
+Ausschneiden             ⌘⇧↑ im Finder. Die Datei bleibt liegen, bis du sie
+                         aus der Island an einen anderen Ort ziehst –
+                         dann wird sie verschoben.
+Herausnehmen             Karte aus der Island herausziehen
+Kopieren / Öffnen        Klick / Doppelklick auf eine Karte
+Verlauf                  Tab "Verlauf": alles, was mit ⌘C kopiert wurde
+Musik                    Läuft Musik, Maus rechts neben die Notch:
+                         Pause, Weiter, Zurück, Spulen
+Alles löschen            Papierkorb oben rechts (zweimal klicken)
+
+
+BERECHTIGUNGEN
+--------------
+Beim ersten Benutzen der Tastenkürzel fragt macOS evtl. nach:
+- "Nodge möchte Finder steuern" → OK
+- Bedienungshilfen → Nodge in den Systemeinstellungen einschalten,
+  danach das Kürzel nochmals drücken.
