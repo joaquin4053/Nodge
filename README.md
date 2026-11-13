@@ -124,7 +124,7 @@ Funktioniert auch auf Macs **ohne** Notch: Die Island sitzt dann oben in der Mit
 Voraussetzung: **macOS 13 (Ventura) oder neuer** und die Xcode Command Line Tools (`xcode-select --install`). Xcode selbst ist nicht nötig.
 
 ```bash
-git clone <repo-url> Nodge
+git clone https://github.com/joaquin4053/Nodge.git
 cd Nodge
 ./build.sh --install
 ```
